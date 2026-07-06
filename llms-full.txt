@@ -1,0 +1,51 @@
+# Geotechnik — Gelsenkirchen
+
+> Geotechnical engineering services in Gelsenkirchen, Deutschland.
+
+## Services
+- [Anker](https://gelsenkirchen.geotechnik.biz/anker/)
+- [Atterberg Grenzen](https://gelsenkirchen.geotechnik.biz/atterberg-grenzen/)
+- [Aushub](https://gelsenkirchen.geotechnik.biz/aushub/)
+- [Aushub Monitoring](https://gelsenkirchen.geotechnik.biz/aushub-monitoring/)
+- [Bodenplatten](https://gelsenkirchen.geotechnik.biz/bodenplatten/)
+- [Bodenverbesserung](https://gelsenkirchen.geotechnik.biz/bodenverbesserung/)
+- [Boschungsstabilitat](https://gelsenkirchen.geotechnik.biz/boschungsstabilitat/)
+- [Cbr Strasse](https://gelsenkirchen.geotechnik.biz/cbr-strasse/)
+- [Cpt Versuch](https://gelsenkirchen.geotechnik.biz/cpt-versuch/)
+- [Erdbebenisolierung](https://gelsenkirchen.geotechnik.biz/erdbebenisolierung/)
+- [Flexibler Belag](https://gelsenkirchen.geotechnik.biz/flexibler-belag/)
+- [Fundamente](https://gelsenkirchen.geotechnik.biz/fundamente/)
+- [Grundungen](https://gelsenkirchen.geotechnik.biz/grundungen/)
+- [Hange](https://gelsenkirchen.geotechnik.biz/hange/)
+- [In Situ Durchlassigkeit](https://gelsenkirchen.geotechnik.biz/in-situ-durchlassigkeit/)
+- [Injektionen](https://gelsenkirchen.geotechnik.biz/injektionen/)
+- [Korngrossenanalyse](https://gelsenkirchen.geotechnik.biz/korngrossenanalyse/)
+- [Labor](https://gelsenkirchen.geotechnik.biz/labor/)
+- [Labor In Situ](https://gelsenkirchen.geotechnik.biz/labor-in-situ/)
+- [Masw](https://gelsenkirchen.geotechnik.biz/masw/)
+- [Pfahle](https://gelsenkirchen.geotechnik.biz/pfahle/)
+- [Proctor Versuche](https://gelsenkirchen.geotechnik.biz/proctor-versuche/)
+- [Ruttelverdichtung](https://gelsenkirchen.geotechnik.biz/ruttelverdichtung/)
+- [Sandkegel Dichte](https://gelsenkirchen.geotechnik.biz/sandkegel-dichte/)
+- [Schottersaulen](https://gelsenkirchen.geotechnik.biz/schottersaulen/)
+- [Schurfgruben](https://gelsenkirchen.geotechnik.biz/schurfgruben/)
+- [Seismik](https://gelsenkirchen.geotechnik.biz/seismik/)
+- [Seismische Mikrozonierung](https://gelsenkirchen.geotechnik.biz/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://gelsenkirchen.geotechnik.biz/seismische-refraktion/)
+- [Spt Bohrung](https://gelsenkirchen.geotechnik.biz/spt-bohrung/)
+- [Starrer Belag](https://gelsenkirchen.geotechnik.biz/starrer-belag/)
+- [Strassenbau](https://gelsenkirchen.geotechnik.biz/strassenbau/)
+- [Stutzmauern](https://gelsenkirchen.geotechnik.biz/stutzmauern/)
+- [Tiefe Aushube](https://gelsenkirchen.geotechnik.biz/tiefe-aushube/)
+- [Triaxialversuch](https://gelsenkirchen.geotechnik.biz/triaxialversuch/)
+- [Untersuchung](https://gelsenkirchen.geotechnik.biz/untersuchung/)
+- [Verflussigung](https://gelsenkirchen.geotechnik.biz/verflussigung/)
+- [Weichbodentunnel](https://gelsenkirchen.geotechnik.biz/weichbodentunnel/)
+- [Widerstand](https://gelsenkirchen.geotechnik.biz/widerstand/)
+
+## Contact
+- Website: https://gelsenkirchen.geotechnik.biz/
+
+## About
+This site provides geotechnical engineering services in Gelsenkirchen, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
